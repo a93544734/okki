@@ -5,16 +5,16 @@
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
 
-    {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/小学课堂.json" },
-    {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/初中课堂.json" },
-    {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "./libs/高中课堂.json"},
-    {"key": "csp_Bili_xiaoxue","name": "🅱️┃小学┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "./libs/jar/HCCX.jar","ext": "./libs/hccx/小学.json"},
+    {"key": "小学课堂","name": "📚小学┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://raw.liucn.cc/box/libs/小学课堂.json" },
+    {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://raw.liucn.cc/box/libs/初中课堂.json" },
+    {"key": "高中教育","name": "📚高中┃课堂","type": 3,"api": "csp_Bili","style": {  "type": "rect",  "ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "https://raw.liucn.cc/box/libs/高中课堂.json"},
+    {"key": "csp_Bili_xiaoxue","name": "🅱️┃小学┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar": "https://raw.liucn.cc/box/libs/jar/HCCX.jar","ext": "https://raw.liucn.cc/box/libs/hccx/小学.json"},
 
 
-    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./libs/js/alist.min.js","ext":"./libs/js/alist.json"},
+    {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://raw.liucn.cc/box/libs/js/alist.min.js","ext":"https://raw.liucn.cc/box/libs/js/alist.json"},
     {"key": "本地","name": "本地存储","type": 3,"api": "csp_Local","searchable": 0,"changeable": 0},
-    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "./libs/js/alist1.json"},
-    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "./libs/js/webdav.json"},
+    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "https://raw.liucn.cc/box/libs/js/alist1.json"},
+    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "https://raw.liucn.cc/box/libs/js/webdav.json"},
 {"key":"csp_AList","name":"小雅｜云盘","type":3,"playerType":1,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,
 "ext":{"vodPic":"https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png",
 "drives":[
