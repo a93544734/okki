@@ -1,6 +1,6 @@
 //以下内容为互联网收集，只为自用。
 {
-  "spider": "https://raw.liucn.cc/box/fty.jar;md5;602fb3226d777850053484cdeb2f3296",
+  "spider": "https://raw.liucn.cc/box/fty.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
    "sites": [
@@ -27,9 +27,9 @@
     {"name": "柯南","server": "https://alist.523.monster/"},
     {"name": "老谭","server": "https://pan.cqtjy.cn/ali"}
 
-]}},
+]}}，
 
-],
+]，
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo" },
     {"name": "Web聚合","type": 3,"url": "Web"},
